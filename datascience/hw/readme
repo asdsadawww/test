@@ -1,1 +1,6 @@
+"""
+Multiple different data types
+"""
 
+mixed=[["physics",98],["calculus",97],["poetry",85],["history",88]]
+print(mixed)
